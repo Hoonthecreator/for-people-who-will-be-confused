@@ -10,7 +10,8 @@
 <h2>Do you want to cry or already have cried because you don't even know how to turn the bulbs ON?</h2>
 
 
-![IMG_FC48BFCBED94-1](https://user-images.githubusercontent.com/94073269/141192744-afc68bab-d7ab-4563-96e5-dcfd96a9d018.jpeg)
+![IMG_FC48BFCBED94-1](https://user-images.githubusercontent.com/94073269/141196289-3a87cd65-456f-4161-b13e-144a4400428b.jpeg)
+
 
 <img width="708" alt="Screenshot 2021-11-10 at 8 51 44 PM" src="https://user-images.githubusercontent.com/94073269/141191466-194f90d0-80fd-49bb-aecc-63f6b9480e82.png">
 
