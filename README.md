@@ -1,6 +1,4 @@
 # for-people-who-will-be-confused
-
-
 <h1>DON'T PANIC FOLLOW THE INSTRUCTION!</h1>
 <h2>DON'T PANIC</h2>
 <h3>DON'T PANIC</h3>
@@ -9,13 +7,15 @@
 
 
 <p>ok I think it's enough.</p>
-Do you want to cry or already have cried because you don't even know how to turn the bulbs ON?
+<h2>Do you want to cry or already have cried because you don't even know how to turn the bulbs ON?</h2>
 
-![download](https://user-images.githubusercontent.com/94073269/141190290-132a825b-ca64-40a3-858b-7d52bbea920e.jpg)
+
+![IMG_FC48BFCBED94-1](https://user-images.githubusercontent.com/94073269/141192744-afc68bab-d7ab-4563-96e5-dcfd96a9d018.jpeg)
+
 <img width="708" alt="Screenshot 2021-11-10 at 8 51 44 PM" src="https://user-images.githubusercontent.com/94073269/141191466-194f90d0-80fd-49bb-aecc-63f6b9480e82.png">
 
 
-<h4><em>No Worries</em></h4>
+<h2><em>No Worries</em></h2>
 
 <p>This READ.ME file is published for people who will be so confused :joy: 😢.</p>
 Do you want to crash the <strong>ARDUINO</strong> and go home?
