@@ -12,6 +12,7 @@
 Do you want to cry or already have cried because you don't even know how to turn the bulbs ON?
 
 ![download](https://user-images.githubusercontent.com/94073269/141190290-132a825b-ca64-40a3-858b-7d52bbea920e.jpg)
+<img width="708" alt="Screenshot 2021-11-10 at 8 51 44 PM" src="https://user-images.githubusercontent.com/94073269/141191466-194f90d0-80fd-49bb-aecc-63f6b9480e82.png">
 
 
 <h4><em>No Worries</em></h4>
