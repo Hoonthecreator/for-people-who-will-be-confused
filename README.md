@@ -37,7 +37,7 @@ Let's see the LED bulb, it has two legs,
 
 and <strong>long one</strong> (<em>It's called 'anods' and It connects to power</em>)
 
-* I personally recommend you to try the TinkerCAD circuit simulator and watch the youtube video.
+* I recommend you to try the TinkerCAD circuit simulator and watch the youtube video.
 
 Link for TinkerCAD circuit simulator https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 
