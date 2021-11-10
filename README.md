@@ -20,6 +20,7 @@ Do you want to cry or already have cried because you don't even know how to turn
 Do you want to crash the <strong>ARDUINO</strong> and go home?
 
 Before seeking a hammer, let's check <strong>*two things</strong>
+
 ![47035369](https://user-images.githubusercontent.com/94073269/141190925-d618d87a-7e00-4b2a-8438-7cdb198ebfa3.jpg)
 
 
