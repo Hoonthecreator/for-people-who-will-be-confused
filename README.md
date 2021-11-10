@@ -22,7 +22,6 @@ Do you want to crash the <strong>ARDUINO</strong> and go home?
 
 Before seeking a hammer, let's check <strong>*two things</strong>
 
-![47035369](https://user-images.githubusercontent.com/94073269/141190925-d618d87a-7e00-4b2a-8438-7cdb198ebfa3.jpg)
 
 
 
@@ -42,3 +41,8 @@ and <strong>long one</strong> (<em>It's called 'anods' and It connects to power<
 Link for TinkerCAD circuit simulator https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 
 Link for youtube video https://www.youtube.com/watch?v=r0KErKHxHf0
+
+
+
+![44343352](https://user-images.githubusercontent.com/94073269/141194153-37ae7e5b-1547-47c6-bfb5-cbb70403232a.jpg)
+
