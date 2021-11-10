@@ -9,7 +9,7 @@
 
 
 <p>ok I think it's enough.</p>
-Do you want to cry because you don't even know how to turn the bulbs?
+Do you want to cry or already have cried because you don't even know how to turn the bulbs ON?
 
 
 <h4><em>No Worries</em></h4>
@@ -20,7 +20,18 @@ Do you want to crash the <strong>ARDUINO</strong> and go home?
 Before seeking for a hammer, let's check <strong>*two things</strong>
 
 <h3><strong>*GND</strong></h3>
-and
-<h3><strong>*LED's legs</strong></h3>
+Isn't your jumper wire ( <em>the wire that supposed to be connected to 'GND (ground)'</em> ) connected to 'Vin'?
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abc.net.au%2Fnews%2F2019-05-28%2Fmeme-of-woman-confused-with-mathematic-equations%2F11154422&psig=AOvVaw2OSQOWpDhczvY8NLBA_NVG&ust=1636656199290000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNC4htO5jvQCFQAAAAAdAAAAABAm.jpg "Optional title")
+
+<h3><strong>*LED's legs</strong></h3>
+Let's see the LED bulb, it has two legs, 
+
+<strong>short one</strong> (<em>It's called 'cathos' and It connects to ground</em>)
+
+and <strong>long one</strong> (<em>It's called 'anods' and It connects to power</em>)
+
+* I personally recommend you to try TinkerCAD circuit simulator, and watch the youtube video.
+
+Link for TinkerCAD circuit simulator https://www.tinkercad.com/dashboard?type=circuits&collection=designs
+
+Link for youtube video https://www.youtube.com/watch?v=r0KErKHxHf0
