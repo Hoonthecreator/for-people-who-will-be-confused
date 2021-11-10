@@ -22,7 +22,7 @@ Do you want to crash the <strong>ARDUINO</strong> and go home?
 
 Before seeking a hammer, let's check <strong>*two things</strong>
 
-
+![IMG_476683C9C74B-1](https://user-images.githubusercontent.com/94073269/141194953-05e770af-017c-42c9-ab45-d909e7255526.jpeg)
 
 
 <h3><strong>*GND</strong></h3>
@@ -44,5 +44,4 @@ Link for youtube video https://www.youtube.com/watch?v=r0KErKHxHf0
 
 
 
-![44343352](https://user-images.githubusercontent.com/94073269/141194153-37ae7e5b-1547-47c6-bfb5-cbb70403232a.jpg)
 
