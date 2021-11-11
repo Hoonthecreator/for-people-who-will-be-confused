@@ -3,6 +3,9 @@
 The first time when I tried the Arduino, I was so overwhelmed by a lot of high-tech looking components. But it wasn't some sort of rocket science. 
 I found out the usage of all the components in the box from the youtube video and I did simulation by using the TinkerCAD circuit simulator.
 
+Based on the understanding of the whole mechanism and simulating, I could make a basic form one. Also, I made a variation form which is keeping lights on by connecting the LED bulbs to power without a button.
+
+<img width="846" alt="Screenshot 2021-11-09 at 4 16 29 PM" src="https://user-images.githubusercontent.com/94073269/141222578-b387be25-9c25-499d-a318-5b02455fe8f3.png">
 
 
 
