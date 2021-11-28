@@ -61,7 +61,7 @@ Link of youtube video https://www.youtube.com/watch?v=r0KErKHxHf0
   
 <h1>Thoughts on the filed of computing</h1>
   
-Physical computing, code, digitalized working method... all these things are heard a little bit heavy to easily embrace and do. But, as the market is changing and moving even right now, plus, the audiences' (or I would like to say 'consumer') needs are getting more complex, I believe we should be ready for the upcoming future. Also, at the same time, we shouldn't forget the most crucial fact that there is a human behind everything eventually.
+Physical computing, code, digitalized working method... all these things are heard a little bit heavy to easily embrace and do. But, as the market is changing and moving even right now, plus, the audiences' (or 'consumer') needs are getting more complex, I believe we should be ready for the upcoming future. Also, at the same time, we shouldn't forget the most crucial fact that there is a human behind everything eventually.
 
 
 
